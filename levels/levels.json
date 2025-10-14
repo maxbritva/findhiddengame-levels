@@ -1,0 +1,69 @@
+{
+  "levels": [
+    {
+      "levelId": "level_001",
+      "levelName": "Forest Adventure",
+      "levelIndex": 0,
+      "backgroundUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_001/background.png",
+      "backgroundSize": {
+        "x": 1024.0,
+        "y": 432.0
+      },
+      "items": [],
+      "isUnlocked": true,
+      "requiredLevelsCompleted": 0
+    },
+    {
+      "levelId": "level_002",
+      "levelName": "City Mystery",
+      "levelIndex": 1,
+      "backgroundUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_002/background.png",
+      "backgroundSize": {
+        "x": 1024.0,
+        "y": 432.0
+      },
+      "items": [],
+      "isUnlocked": true,
+      "requiredLevelsCompleted": 1
+    },
+    {
+      "levelId": "level_003",
+      "levelName": "Space Station",
+      "levelIndex": 2,
+      "backgroundUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_003/background.png",
+      "backgroundSize": {
+        "x": 1024.0,
+        "y": 432.0
+      },
+      "items": [],
+      "isUnlocked": true,
+      "requiredLevelsCompleted": 2
+    },
+    {
+      "levelId": "level_004",
+      "levelName": "Underwater World",
+      "levelIndex": 3,
+      "backgroundUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_004/background.png",
+      "backgroundSize": {
+        "x": 1024.0,
+        "y": 432.0
+      },
+      "items": [],
+      "isUnlocked": true,
+      "requiredLevelsCompleted": 3
+    },
+    {
+      "levelId": "level_005",
+      "levelName": "Mountain Peak",
+      "levelIndex": 4,
+      "backgroundUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_005/background.png",
+      "backgroundSize": {
+        "x": 1024.0,
+        "y": 432.0
+      },
+      "items": [],
+      "isUnlocked": true,
+      "requiredLevelsCompleted": 4
+    }
+  ]
+}

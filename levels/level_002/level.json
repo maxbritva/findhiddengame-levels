@@ -1,0 +1,94 @@
+{
+  "levelId": "level_002",
+  "levelName": "City Mystery",
+  "levelIndex": 1,
+  "backgroundUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_002/background.png",
+  "backgroundSize": {
+    "x": 1024.0,
+    "y": 432.0
+  },
+  "items": [
+    {
+      "itemId": "item_1",
+      "itemName": "City Badge",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_002/item_1.png",
+      "position": {
+        "x": -200.0,
+        "y": 100.0
+      },
+      "scale": 1.1,
+      "rotation": 0.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": true,
+      "animationType": "scale",
+      "animationDuration": 0.4
+    },
+    {
+      "itemId": "item_2",
+      "itemName": "Traffic Light",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_002/item_2.png",
+      "position": {
+        "x": 250.0,
+        "y": -80.0
+      },
+      "scale": 0.7,
+      "rotation": 0.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": false,
+      "animationType": "none",
+      "animationDuration": 0.5
+    },
+    {
+      "itemId": "item_3",
+      "itemName": "Street Sign",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_002/item_3.png",
+      "position": {
+        "x": -350.0,
+        "y": 180.0
+      },
+      "scale": 0.8,
+      "rotation": -5.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": true,
+      "animationType": "fade",
+      "animationDuration": 0.6
+    },
+    {
+      "itemId": "item_4",
+      "itemName": "Newsletter",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_002/item_4.png",
+      "position": {
+        "x": 150.0,
+        "y": 220.0
+      },
+      "scale": 0.9,
+      "rotation": 10.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": true,
+      "animationType": "scale",
+      "animationDuration": 0.3
+    },
+    {
+      "itemId": "item_5",
+      "itemName": "Coin",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_002/item_5.png",
+      "position": {
+        "x": 0.0,
+        "y": -150.0
+      },
+      "scale": 1.0,
+      "rotation": 0.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": true,
+      "animationType": "fade",
+      "animationDuration": 0.5
+    }
+  ],
+  "isUnlocked": true,
+  "requiredLevelsCompleted": 1
+}

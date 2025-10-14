@@ -1,0 +1,94 @@
+{
+  "levelId": "level_004",
+  "levelName": "Underwater World",
+  "levelIndex": 3,
+  "backgroundUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_004/background.png",
+  "backgroundSize": {
+    "x": 1024.0,
+    "y": 432.0
+  },
+  "items": [
+    {
+      "itemId": "item_1",
+      "itemName": "Pearl",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_004/item_1.png",
+      "position": {
+        "x": 180.0,
+        "y": 90.0
+      },
+      "scale": 1.0,
+      "rotation": 0.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": true,
+      "animationType": "scale",
+      "animationDuration": 0.6
+    },
+    {
+      "itemId": "item_2",
+      "itemName": "Seaweed",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_004/item_2.png",
+      "position": {
+        "x": -250.0,
+        "y": -120.0
+      },
+      "scale": 0.9,
+      "rotation": 20.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": false,
+      "animationType": "none",
+      "animationDuration": 0.5
+    },
+    {
+      "itemId": "item_3",
+      "itemName": "Treasure Chest",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_004/item_3.png",
+      "position": {
+        "x": 300.0,
+        "y": -80.0
+      },
+      "scale": 1.2,
+      "rotation": -10.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": true,
+      "animationType": "fade",
+      "animationDuration": 0.8
+    },
+    {
+      "itemId": "item_4",
+      "itemName": "Coral",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_004/item_4.png",
+      "position": {
+        "x": -100.0,
+        "y": 200.0
+      },
+      "scale": 0.8,
+      "rotation": 15.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": true,
+      "animationType": "scale",
+      "animationDuration": 0.4
+    },
+    {
+      "itemId": "item_5",
+      "itemName": "Starfish",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_004/item_5.png",
+      "position": {
+        "x": 50.0,
+        "y": -180.0
+      },
+      "scale": 0.9,
+      "rotation": 0.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": true,
+      "animationType": "fade",
+      "animationDuration": 0.5
+    }
+  ],
+  "isUnlocked": true,
+  "requiredLevelsCompleted": 3
+}

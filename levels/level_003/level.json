@@ -1,0 +1,78 @@
+{
+  "levelId": "level_003",
+  "levelName": "Space Station",
+  "levelIndex": 2,
+  "backgroundUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_003/background.png",
+  "backgroundSize": {
+    "x": 1024.0,
+    "y": 432.0
+  },
+  "items": [
+    {
+      "itemId": "item_1",
+      "itemName": "Space Helmet",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_003/item_1.png",
+      "position": {
+        "x": -180.0,
+        "y": 120.0
+      },
+      "scale": 1.0,
+      "rotation": 0.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": true,
+      "animationType": "scale",
+      "animationDuration": 0.4
+    },
+    {
+      "itemId": "item_2",
+      "itemName": "Control Panel",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_003/item_2.png",
+      "position": {
+        "x": 220.0,
+        "y": -60.0
+      },
+      "scale": 0.9,
+      "rotation": 5.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": false,
+      "animationType": "none",
+      "animationDuration": 0.5
+    },
+    {
+      "itemId": "item_3",
+      "itemName": "Astronaut Tool",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_003/item_3.png",
+      "position": {
+        "x": -320.0,
+        "y": -100.0
+      },
+      "scale": 0.8,
+      "rotation": -15.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": true,
+      "animationType": "fade",
+      "animationDuration": 0.7
+    },
+    {
+      "itemId": "item_4",
+      "itemName": "Data Crystal",
+      "spriteUrl": "https://raw.githubusercontent.com/maxbritva/findhiddengame-levels/main/levels/level_003/item_4.png",
+      "position": {
+        "x": 100.0,
+        "y": 180.0
+      },
+      "scale": 1.1,
+      "rotation": 0.0,
+      "isInteractable": true,
+      "interactionType": "click",
+      "hasAnimation": true,
+      "animationType": "scale",
+      "animationDuration": 0.5
+    }
+  ],
+  "isUnlocked": true,
+  "requiredLevelsCompleted": 2
+}
