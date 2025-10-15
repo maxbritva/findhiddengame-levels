@@ -1,7 +1,7 @@
 {
     "levelId": "level_003",
     "levelName": "Level_3",
-    "levelIndex": 3,
+    "levelIndex": 2,
     "backgroundUrl": "assets/backgrounds/Video.png",
     "backgroundSize": {
         "x": 1024.0,
@@ -31,22 +31,6 @@
             "position": {
                 "x": -8.5600004196167,
                 "y": -2.569999933242798
-            },
-            "scale": 0.11213363707065582,
-            "rotation": 0.0,
-            "isInteractable": true,
-            "interactionType": "click",
-            "hasAnimation": false,
-            "animationType": "none",
-            "animationDuration": 0.5
-        },
-        {
-            "itemId": "InteractableItem_2",
-            "itemName": "InteractableItem_2",
-            "spriteUrl": "assets/items/5.png",
-            "position": {
-                "x": -3.140000104904175,
-                "y": -2.799999952316284
             },
             "scale": 0.11213363707065582,
             "rotation": 0.0,
