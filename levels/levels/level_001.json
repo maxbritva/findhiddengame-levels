@@ -1,7 +1,7 @@
 {
     "levelId": "level_001",
     "levelName": "Level_1",
-    "levelIndex": 1,
+    "levelIndex": 0,
     "backgroundUrl": "assets/backgrounds/background.png",
     "backgroundSize": {
         "x": 1024.0,
@@ -9,28 +9,12 @@
     },
     "items": [
         {
-            "itemId": "InteractableItem_2",
-            "itemName": "InteractableItem_2",
-            "spriteUrl": "assets/items/5.png",
-            "position": {
-                "x": -3.140000104904175,
-                "y": -2.799999952316284
-            },
-            "scale": 0.11213363707065582,
-            "rotation": 0.0,
-            "isInteractable": true,
-            "interactionType": "click",
-            "hasAnimation": false,
-            "animationType": "none",
-            "animationDuration": 0.5
-        },
-        {
             "itemId": "InteractableItem_1",
             "itemName": "InteractableItem_1",
             "spriteUrl": "assets/items/1.png",
             "position": {
-                "x": -8.5600004196167,
-                "y": -2.569999933242798
+                "x": -6.5,
+                "y": -3.0
             },
             "scale": 0.11213363707065582,
             "rotation": 0.0,
@@ -43,12 +27,12 @@
         {
             "itemId": "InteractableItem_2",
             "itemName": "InteractableItem_2",
-            "spriteUrl": "assets/items/5.png",
+            "spriteUrl": "assets/items/Icon_Heart01.png",
             "position": {
-                "x": -3.140000104904175,
-                "y": -2.799999952316284
+                "x": -1.600000023841858,
+                "y": -3.0
             },
-            "scale": 0.11213363707065582,
+            "scale": 0.6800000071525574,
             "rotation": 0.0,
             "isInteractable": true,
             "interactionType": "click",
