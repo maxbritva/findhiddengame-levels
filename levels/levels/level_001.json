@@ -2,10 +2,10 @@
     "levelId": "level_001",
     "levelName": "Level_1",
     "levelIndex": 0,
-    "backgroundUrl": "assets/backgrounds/background.png",
+    "backgroundUrl": "assets/backgrounds/BG_1.png",
     "backgroundSize": {
-        "x": 1024.0,
-        "y": 432.0
+        "x": 2560.0,
+        "y": 1080.0
     },
     "items": [
         {
