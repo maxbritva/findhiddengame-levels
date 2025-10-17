@@ -4,20 +4,26 @@
     "levelIndex": 0,
     "backgroundUrl": "assets/backgrounds/BG_1.png",
     "backgroundSize": {
-        "x": 2560.0,
-        "y": 1080.0
+        "x": 1680.0,
+        "y": 720.0
     },
     "items": [
         {
             "itemId": "InteractableItem_1",
             "itemName": "InteractableItem_1",
-            "spriteUrl": "assets/items/Item_1_0.png",
+            "spriteUrl": "assets/items/Item_1.png",
             "position": {
-                "x": -10.388999938964844,
-                "y": -1.6100000143051148
+                "x": -9.10200023651123,
+                "y": -1.6169999837875367
             },
-            "scale": 0.451990008354187,
-            "rotation": 2.166843891143799,
+            "scale": 0.5918356776237488,
+            "rotation": 2.1668436527252199,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -27,13 +33,19 @@
         {
             "itemId": "InteractableItem_2",
             "itemName": "InteractableItem_2",
-            "spriteUrl": "assets/items/Item_2_0.png",
+            "spriteUrl": "assets/items/Item_2.png",
             "position": {
-                "x": -14.435999870300293,
-                "y": -2.0769999027252199
+                "x": -11.593000411987305,
+                "y": -1.8179999589920045
             },
-            "scale": 0.2709825932979584,
-            "rotation": 2.166843891143799,
+            "scale": 0.5033230781555176,
+            "rotation": 2.1668436527252199,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -43,13 +55,19 @@
         {
             "itemId": "InteractableItem_3",
             "itemName": "InteractableItem_3",
-            "spriteUrl": "assets/items/Item_3_0.png",
+            "spriteUrl": "assets/items/Item_3.png",
             "position": {
-                "x": -13.239999771118164,
-                "y": 2.9100000858306886
+                "x": -11.0600004196167,
+                "y": 0.8399999737739563
             },
-            "scale": 0.6000000238418579,
-            "rotation": 352.6969909667969,
+            "scale": 0.7431600093841553,
+            "rotation": 17.381738662719728,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -59,13 +77,19 @@
         {
             "itemId": "InteractableItem_4",
             "itemName": "InteractableItem_4",
-            "spriteUrl": "assets/items/Item_4_0.png",
+            "spriteUrl": "assets/items/Item_4.png",
             "position": {
-                "x": -5.380000114440918,
-                "y": -2.759999990463257
+                "x": 0.3199999928474426,
+                "y": 0.8299999833106995
             },
             "scale": 0.6000000238418579,
-            "rotation": 352.6969909667969,
+            "rotation": 337.7650451660156,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -75,13 +99,19 @@
         {
             "itemId": "InteractableItem_5",
             "itemName": "InteractableItem_5",
-            "spriteUrl": "assets/items/Item_5_0.png",
+            "spriteUrl": "assets/items/Item_5.png",
             "position": {
-                "x": -10.119999885559082,
-                "y": -5.070000171661377
+                "x": -10.760000228881836,
+                "y": -4.377999782562256
             },
-            "scale": 0.35905852913856509,
+            "scale": 0.47015121579170229,
             "rotation": 9.41501235961914,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -91,13 +121,19 @@
         {
             "itemId": "InteractableItem_6",
             "itemName": "InteractableItem_6",
-            "spriteUrl": "assets/items/Item_6_0.png",
+            "spriteUrl": "assets/items/Item_6.png",
             "position": {
-                "x": -4.349999904632568,
-                "y": -5.150000095367432
+                "x": -5.079999923706055,
+                "y": -3.9739999771118166
             },
-            "scale": 0.35905852913856509,
-            "rotation": 9.41501235961914,
+            "scale": 0.4733109474182129,
+            "rotation": 316.0533447265625,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -107,13 +143,19 @@
         {
             "itemId": "InteractableItem_7",
             "itemName": "InteractableItem_7",
-            "spriteUrl": "assets/items/Item_7_0.png",
+            "spriteUrl": "assets/items/Item_7.png",
             "position": {
-                "x": 3.740000009536743,
-                "y": -2.880000114440918
+                "x": -5.53000020980835,
+                "y": -2.5399999618530275
             },
-            "scale": 0.536792516708374,
+            "scale": 0.7502748966217041,
             "rotation": 1.3369638919830323,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -125,11 +167,17 @@
             "itemName": "InteractableItem_8",
             "spriteUrl": "assets/items/Item_8.png",
             "position": {
-                "x": 5.75,
-                "y": -4.25
+                "x": 1.25,
+                "y": -2.490000009536743
             },
             "scale": 0.536792516708374,
             "rotation": 84.93580627441406,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -139,13 +187,19 @@
         {
             "itemId": "InteractableItem_9",
             "itemName": "InteractableItem_9",
-            "spriteUrl": "assets/items/Item_9_0.png",
+            "spriteUrl": "assets/items/Item_9.png",
             "position": {
-                "x": 0.2720000147819519,
-                "y": -1.9600000381469727
+                "x": -1.8769999742507935,
+                "y": -1.8949999809265137
             },
             "scale": 0.2468939870595932,
             "rotation": 359.52825927734377,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -155,13 +209,19 @@
         {
             "itemId": "InteractableItem_10",
             "itemName": "InteractableItem_10",
-            "spriteUrl": "assets/items/Item_10_0.png",
+            "spriteUrl": "assets/items/Item_10.png",
             "position": {
-                "x": -2.180000066757202,
-                "y": -4.369999885559082
+                "x": -7.460000038146973,
+                "y": -3.7699999809265138
             },
-            "scale": 0.5480552911758423,
-            "rotation": 259.622802734375,
+            "scale": 0.9097948670387268,
+            "rotation": 166.08277893066407,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -171,13 +231,19 @@
         {
             "itemId": "InteractableItem_11",
             "itemName": "InteractableItem_11",
-            "spriteUrl": "assets/items/Item_11_0.png",
+            "spriteUrl": "assets/items/Item_11.png",
             "position": {
-                "x": 0.949999988079071,
-                "y": -5.159999847412109
+                "x": -1.4900000095367432,
+                "y": -4.210000038146973
             },
-            "scale": 0.5480552911758423,
+            "scale": 0.8290432095527649,
             "rotation": 354.2499694824219,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -187,13 +253,19 @@
         {
             "itemId": "InteractableItem_12",
             "itemName": "InteractableItem_12",
-            "spriteUrl": "assets/items/Item_12_0.png",
+            "spriteUrl": "assets/items/Item_12.png",
             "position": {
-                "x": -6.690000057220459,
-                "y": 1.7999999523162842
+                "x": -6.239999771118164,
+                "y": 0.3799999952316284
             },
-            "scale": 0.5480552911758423,
-            "rotation": 354.2499694824219,
+            "scale": 0.7224465012550354,
+            "rotation": 307.6709289550781,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -203,13 +275,19 @@
         {
             "itemId": "InteractableItem_13",
             "itemName": "InteractableItem_13",
-            "spriteUrl": "assets/items/Item_13_0.png",
+            "spriteUrl": "assets/items/Item_13.png",
             "position": {
-                "x": -16.979999542236329,
-                "y": -5.059999942779541
+                "x": -13.039999961853028,
+                "y": -3.7799999713897707
             },
-            "scale": 0.5480552911758423,
-            "rotation": 10.56425666809082,
+            "scale": 0.7611939907073975,
+            "rotation": 2.2615768909454347,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -219,13 +297,19 @@
         {
             "itemId": "InteractableItem_14",
             "itemName": "InteractableItem_14",
-            "spriteUrl": "assets/items/Item_14_0.png",
+            "spriteUrl": "assets/items/Item_14.png",
             "position": {
-                "x": -16.43000030517578,
-                "y": -1.9800000190734864
+                "x": -13.130000114440918,
+                "y": -2.009999990463257
             },
             "scale": 0.7563711404800415,
             "rotation": 2.211881399154663,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -235,13 +319,19 @@
         {
             "itemId": "InteractableItem_15",
             "itemName": "InteractableItem_15",
-            "spriteUrl": "assets/items/Item_15_0.png",
+            "spriteUrl": "assets/items/Item_15.png",
             "position": {
-                "x": -2.359999895095825,
-                "y": -1.409999966621399
+                "x": -6.421000003814697,
+                "y": -1.2450000047683716
             },
             "scale": 0.5491254329681397,
             "rotation": 2.211881399154663,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -251,13 +341,19 @@
         {
             "itemId": "InteractableItem_16",
             "itemName": "InteractableItem_16",
-            "spriteUrl": "assets/items/Item_16_0.png",
+            "spriteUrl": "assets/items/Item_16.png",
             "position": {
-                "x": 5.360000133514404,
-                "y": 1.8300000429153443
+                "x": 1.4700000286102296,
+                "y": 0.6899999976158142
             },
             "scale": 0.5491254329681397,
             "rotation": 78.83502197265625,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
