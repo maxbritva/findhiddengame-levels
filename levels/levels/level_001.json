@@ -8,7 +8,7 @@
         "y": 720.0
     },
     "useSpriteAtlas": true,
-    "atlasUrl": "levels/atlas.png",
+    "atlasUrl": "atlas.png",
     "atlasCellSize": 128,
     "items": [
         {
