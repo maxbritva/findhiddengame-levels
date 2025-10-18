@@ -7,6 +7,9 @@
         "x": 1680.0,
         "y": 720.0
     },
+    "useSpriteAtlas": false,
+    "atlasUrl": "",
+    "atlasCellSize": 128,
     "items": [
         {
             "itemId": "InteractableItem_2",
@@ -24,6 +27,8 @@
                 "b": 1.0,
                 "a": 1.0
             },
+            "atlasX": 0,
+            "atlasY": 0,
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
@@ -46,6 +51,8 @@
                 "b": 1.0,
                 "a": 1.0
             },
+            "atlasX": 0,
+            "atlasY": 0,
             "isInteractable": true,
             "interactionType": "click",
             "hasAnimation": false,
