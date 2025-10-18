@@ -1,0 +1,89 @@
+{
+    "levelId": "level_002",
+    "levelName": "Level_2",
+    "levelIndex": 1,
+    "backgroundUrl": "Game/backgrounds/Generated Image October 07, 2025 - 6_52PM.png",
+    "backgroundSize": {
+        "x": 1680.0,
+        "y": 720.0
+    },
+    "useSpriteAtlas": false,
+    "atlasUrl": "",
+    "atlasCellSize": 128,
+    "items": [
+        {
+            "itemId": "InteractableItem_1",
+            "itemName": "InteractableItem_1",
+            "spriteUrl": "assets/items/1.png",
+            "position": {
+                "x": -8.5600004196167,
+                "y": -2.569999933242798
+            },
+            "scale": 0.11213363707065582,
+            "rotation": 0.0,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "atlasX": 0,
+            "atlasY": 0,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_2",
+            "itemName": "InteractableItem_2",
+            "spriteUrl": "assets/items/5.png",
+            "position": {
+                "x": -3.140000104904175,
+                "y": -2.799999952316284
+            },
+            "scale": 0.11213363707065582,
+            "rotation": 0.0,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "atlasX": 0,
+            "atlasY": 0,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_3",
+            "itemName": "InteractableItem_3",
+            "spriteUrl": "assets/items/6.png",
+            "position": {
+                "x": -1.3899999856948853,
+                "y": -0.6700000166893005
+            },
+            "scale": 0.11213363707065582,
+            "rotation": 0.0,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "atlasX": 0,
+            "atlasY": 0,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        }
+    ],
+    "isUnlocked": true,
+    "requiredLevelsCompleted": 0
+}
