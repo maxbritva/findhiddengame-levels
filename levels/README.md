@@ -11,7 +11,7 @@ levels/
 ├── level_002.json      # Level data
 └── ...
 
-assets/
+Game/
 ├── backgrounds/        # Background sprites
 │   ├── bg_001.png
 │   └── ...
@@ -24,8 +24,8 @@ assets/
 
 1. **Load level index**: GET `/levels/index.json`
 2. **Load specific level**: GET `/levels/{levelId}.json`
-3. **Load background**: GET `/assets/backgrounds/{backgroundName}.png`
-4. **Load item sprite**: GET `/assets/items/{itemName}.png`
+3. **Load background**: GET `/Game/backgrounds/{backgroundName}.png`
+4. **Load item sprite**: GET `/Game/items/{itemName}.png`
 
 ## Level Format
 
