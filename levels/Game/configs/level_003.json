@@ -14,7 +14,7 @@
         {
             "itemId": "InteractableItem_2",
             "itemName": "InteractableItem_2",
-            "spriteUrl": "assets/items/5.png",
+            "spriteUrl": "",
             "position": {
                 "x": -3.140000104904175,
                 "y": -2.799999952316284
@@ -38,7 +38,7 @@
         {
             "itemId": "InteractableItem_1",
             "itemName": "InteractableItem_1",
-            "spriteUrl": "assets/items/1.png",
+            "spriteUrl": "",
             "position": {
                 "x": -8.5600004196167,
                 "y": -2.569999933242798
