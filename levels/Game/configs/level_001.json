@@ -8,7 +8,7 @@
         "y": 720.0
     },
     "useSpriteAtlas": true,
-    "atlasUrl": "Game/items/Items_1_0.png",
+    "atlasUrl": "Game/items/Items_1.png",
     "atlasCellSize": 128,
     "items": [
         {
