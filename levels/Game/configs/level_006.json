@@ -1,0 +1,401 @@
+{
+    "levelId": "level_006",
+    "levelName": "Level_6",
+    "levelIndex": 5,
+    "backgroundUrl": "Game/backgrounds/BG_6.png",
+    "backgroundSize": {
+        "x": 1680.0,
+        "y": 720.0
+    },
+    "useSpriteAtlas": true,
+    "atlasUrl": "Game/items/items_6.png",
+    "atlasCellSize": 128,
+    "items": [
+        {
+            "itemId": "InteractableItem_1",
+            "itemName": "InteractableItem_1",
+            "spriteUrl": "",
+            "position": {
+                "x": -9.159000396728516,
+                "y": -0.26499998569488528
+            },
+            "scale": 0.34074345231056216,
+            "rotation": 350.0557556152344,
+            "spriteColor": {
+                "r": 0.7452830076217651,
+                "g": 0.6632351279258728,
+                "b": 0.5659932494163513,
+                "a": 1.0
+            },
+            "atlasX": 0,
+            "atlasY": 3,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_2",
+            "itemName": "InteractableItem_2",
+            "spriteUrl": "",
+            "position": {
+                "x": 0.2029999941587448,
+                "y": 1.1380000114440919
+            },
+            "scale": 0.5918356776237488,
+            "rotation": 140.79949951171876,
+            "spriteColor": {
+                "r": 0.5660377740859985,
+                "g": 0.5331078767776489,
+                "b": 0.46724817156791689,
+                "a": 1.0
+            },
+            "atlasX": 1,
+            "atlasY": 3,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_3",
+            "itemName": "InteractableItem_3",
+            "spriteUrl": "",
+            "position": {
+                "x": -5.875,
+                "y": -2.36299991607666
+            },
+            "scale": 0.47152140736579897,
+            "rotation": 0.0,
+            "spriteColor": {
+                "r": 0.9716981053352356,
+                "g": 0.7379405498504639,
+                "b": 0.7379405498504639,
+                "a": 1.0
+            },
+            "atlasX": 2,
+            "atlasY": 3,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_4",
+            "itemName": "InteractableItem_4",
+            "spriteUrl": "",
+            "position": {
+                "x": -8.300999641418457,
+                "y": -2.694000005722046
+            },
+            "scale": 0.5918356776237488,
+            "rotation": 333.0819396972656,
+            "spriteColor": {
+                "r": 0.7830188870429993,
+                "g": 0.7082815170288086,
+                "b": 0.6094250679016113,
+                "a": 1.0
+            },
+            "atlasX": 3,
+            "atlasY": 3,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_5",
+            "itemName": "InteractableItem_5",
+            "spriteUrl": "",
+            "position": {
+                "x": -4.275000095367432,
+                "y": -2.6389999389648439
+            },
+            "scale": 0.30412065982818606,
+            "rotation": 355.3981628417969,
+            "spriteColor": {
+                "r": 0.7358490228652954,
+                "g": 0.6666028499603272,
+                "b": 0.5380028486251831,
+                "a": 1.0
+            },
+            "atlasX": 0,
+            "atlasY": 2,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_6",
+            "itemName": "InteractableItem_6",
+            "spriteUrl": "",
+            "position": {
+                "x": -12.619999885559082,
+                "y": -2.3499999046325685
+            },
+            "scale": 0.4824050962924957,
+            "rotation": 353.4184265136719,
+            "spriteColor": {
+                "r": 0.650943398475647,
+                "g": 0.6100444793701172,
+                "b": 0.5373353362083435,
+                "a": 1.0
+            },
+            "atlasX": 1,
+            "atlasY": 2,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_7",
+            "itemName": "InteractableItem_7",
+            "spriteUrl": "",
+            "position": {
+                "x": -4.692999839782715,
+                "y": -1.5019999742507935
+            },
+            "scale": 0.4537900388240814,
+            "rotation": 355.639404296875,
+            "spriteColor": {
+                "r": 1.0,
+                "g": 0.9293363094329834,
+                "b": 0.8349056243896484,
+                "a": 1.0
+            },
+            "atlasX": 2,
+            "atlasY": 2,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_8",
+            "itemName": "InteractableItem_8",
+            "spriteUrl": "",
+            "position": {
+                "x": -1.7690000534057618,
+                "y": -1.3960000276565552
+            },
+            "scale": 0.3831203281879425,
+            "rotation": 358.2682189941406,
+            "spriteColor": {
+                "r": 0.9150943160057068,
+                "g": 0.8188179731369019,
+                "b": 0.6690548062324524,
+                "a": 1.0
+            },
+            "atlasX": 3,
+            "atlasY": 2,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_9",
+            "itemName": "InteractableItem_9",
+            "spriteUrl": "",
+            "position": {
+                "x": 0.05900001525878906,
+                "y": -2.7860000133514406
+            },
+            "scale": 0.4731507897377014,
+            "rotation": 354.3337707519531,
+            "spriteColor": {
+                "r": 0.772549033164978,
+                "g": 0.6529455184936523,
+                "b": 0.5960784554481506,
+                "a": 1.0
+            },
+            "atlasX": 0,
+            "atlasY": 1,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_10",
+            "itemName": "InteractableItem_10",
+            "spriteUrl": "",
+            "position": {
+                "x": -14.182000160217286,
+                "y": -1.6519999504089356
+            },
+            "scale": 0.6027526259422302,
+            "rotation": 359.9596862792969,
+            "spriteColor": {
+                "r": 0.6603773832321167,
+                "g": 0.5015130043029785,
+                "b": 0.5015130043029785,
+                "a": 1.0
+            },
+            "atlasX": 1,
+            "atlasY": 1,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_11",
+            "itemName": "InteractableItem_11",
+            "spriteUrl": "",
+            "position": {
+                "x": -2.872999906539917,
+                "y": -1.722000002861023
+            },
+            "scale": 0.35767945647239687,
+            "rotation": 359.4897766113281,
+            "spriteColor": {
+                "r": 0.7830188870429993,
+                "g": 0.7120460271835327,
+                "b": 0.6020380854606628,
+                "a": 1.0
+            },
+            "atlasX": 2,
+            "atlasY": 1,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_12",
+            "itemName": "InteractableItem_12",
+            "spriteUrl": "",
+            "position": {
+                "x": -11.690999984741211,
+                "y": -3.938999891281128
+            },
+            "scale": 0.41628506779670718,
+            "rotation": 2.5104055404663088,
+            "spriteColor": {
+                "r": 0.49790847301483157,
+                "g": 0.6054638028144836,
+                "b": 0.6320754289627075,
+                "a": 1.0
+            },
+            "atlasX": 3,
+            "atlasY": 1,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_13",
+            "itemName": "InteractableItem_13",
+            "spriteUrl": "",
+            "position": {
+                "x": -12.967000007629395,
+                "y": 0.3240000009536743
+            },
+            "scale": 0.49877867102622988,
+            "rotation": 324.53289794921877,
+            "spriteColor": {
+                "r": 0.6886792182922363,
+                "g": 0.6298059821128845,
+                "b": 0.529503345489502,
+                "a": 1.0
+            },
+            "atlasX": 0,
+            "atlasY": 0,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_14",
+            "itemName": "InteractableItem_14",
+            "spriteUrl": "",
+            "position": {
+                "x": -8.194000244140625,
+                "y": -3.9709999561309816
+            },
+            "scale": 0.7691504955291748,
+            "rotation": 357.5281066894531,
+            "spriteColor": {
+                "r": 0.7735849022865295,
+                "g": 0.7132649421691895,
+                "b": 0.6093805432319641,
+                "a": 1.0
+            },
+            "atlasX": 1,
+            "atlasY": 0,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_15",
+            "itemName": "InteractableItem_15",
+            "spriteUrl": "",
+            "position": {
+                "x": -9.968000411987305,
+                "y": -3.071000099182129
+            },
+            "scale": 0.40701955556869509,
+            "rotation": 357.35784912109377,
+            "spriteColor": {
+                "r": 0.801886796951294,
+                "g": 0.7352204918861389,
+                "b": 0.6241099834442139,
+                "a": 1.0
+            },
+            "atlasX": 2,
+            "atlasY": 0,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        },
+        {
+            "itemId": "InteractableItem_16",
+            "itemName": "InteractableItem_16",
+            "spriteUrl": "",
+            "position": {
+                "x": -1.187999963760376,
+                "y": -1.8270000219345093
+            },
+            "scale": 0.6906399726867676,
+            "rotation": 21.599990844726564,
+            "spriteColor": {
+                "r": 0.8584905862808228,
+                "g": 0.782313346862793,
+                "b": 0.6195710301399231,
+                "a": 1.0
+            },
+            "atlasX": 3,
+            "atlasY": 0,
+            "isInteractable": true,
+            "interactionType": "click",
+            "hasAnimation": false,
+            "animationType": "none",
+            "animationDuration": 0.5
+        }
+    ],
+    "isUnlocked": true,
+    "requiredLevelsCompleted": 0
+}
